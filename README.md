@@ -9,9 +9,9 @@
 <p>
   Hi 👋, I'm Maicon Botelho! A passionate Systems Analysis and Development Student from Brazil.
 
-  - Currently studying Systems Analysis and Development at Uninter.
-  - Focused on entering the Web and Mobile Development area. Exploring JavaScript, HTML5, CSS3, Java, Firebase, and Python for application development.
-  - Currently diving deep into JavaScript, HTML5, and CSS3 to enhance my skills and create engaging web experiences.
+  - 📚 Currently studying Systems Analysis and Development at Uninter.
+  - 💻 Focused on entering the Web and Mobile Development area. Exploring JavaScript, HTML5, CSS3, Java, Firebase, and Python for application development.
+  - 🚀 Currently diving deep into JavaScript, HTML5, and CSS3 to enhance my skills and create engaging web experiences.
 </p><br>
 
 
@@ -19,7 +19,7 @@
 <details>
   <summary><h2>👨‍💻 More about me</h2></summary><br>
 
-  - 💬 My knowledge is based on my academic journey, Udemy courses, and online video classes on YouTube. Currently learning and applying essential technologies including Java, Firebase, and Python.
+  - 💬 My knowledge is based on my academic journey, Udemy courses, and online video classes on YouTube. Currently learning and applying essential technologies including JavaScript, HTML5, CSS3, Java, Firebase, and Python.
   - ⚡ With a solid background in functional physical training, I developed valuable skills such as communication, leadership, teamwork, and adaptability. \o/
 </details>
 
