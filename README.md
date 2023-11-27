@@ -79,5 +79,8 @@
 </div>
 
 <!-- Adicionando a animação da cobra ao seu perfil -->
-![Snake animation](https://github.com/maiconsbotelho/maiconsbotelho/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maiconsbotelho/maiconsbotelho/output/snake.svg" alt="Snake animation" />
+
 
