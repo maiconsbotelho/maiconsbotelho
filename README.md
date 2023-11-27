@@ -9,14 +9,15 @@
 <p>
   Hi 👋, I'm Maicon Botelho! A passionate Systems Analysis and Development Student from Brazil.
 
-  - 🌱 Currently studying Systems Analysis and Development at Uninter.
-  - 🔭 Focused on entering the Web and Mobile Development area. Exploring JavaScript, HTML5, CSS3, Java, Firebase, and Python for application development.
-  - 🚀 Currently diving deep into JavaScript, HTML5, and CSS3 to enhance my skills and create engaging web experiences.
+  - Currently studying Systems Analysis and Development at Uninter.
+  - Focused on entering the Web and Mobile Development area. Exploring JavaScript, HTML5, CSS3, Java, Firebase, and Python for application development.
+  - Currently diving deep into JavaScript, HTML5, and CSS3 to enhance my skills and create engaging web experiences.
 </p><br>
+
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary><br>
+  <summary><h2>👨‍💻 More about me</h2></summary><br>
 
   - 💬 My knowledge is based on my academic journey, Udemy courses, and online video classes on YouTube. Currently learning and applying essential technologies including Java, Firebase, and Python.
   - ⚡ With a solid background in functional physical training, I developed valuable skills such as communication, leadership, teamwork, and adaptability. \o/
@@ -41,7 +42,7 @@
 <!-- Habilidades: Linguagens de Programação -->
 <div style="display: flex; justify-content: space-between;">
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h2>I code wiht</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -58,7 +59,7 @@
 
   <!-- Habilidades: Ferramentas e Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h2>Tools & Frameworks</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -76,3 +77,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   </div>
 </div>
+
+<!-- Adicionando a animação da cobra ao seu perfil -->
+![Snake animation](https://github.com/maiconsbotelho/maiconsbotelho/blob/output/github-contribution-grid-snake.svg)
+
