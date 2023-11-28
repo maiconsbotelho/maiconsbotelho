@@ -31,8 +31,9 @@
   - 📚 Currently studying Systems Analysis and Development at Uninter.
   - 💻 Focused on entering the Web and Mobile Development area. Exploring JavaScript, HTML5, CSS3, Java, Firebase, and Python for application development.
   - 🚀 Currently diving deep into JavaScript, HTML5, and CSS3 to enhance my skills and create engaging web experiences.
-</p><br>
+</p>
 
+##
 
 <!-- Dropdown -->
 <details>
@@ -42,10 +43,11 @@
   - ⚡ With a solid background in functional physical training, I developed valuable skills such as communication, leadership, teamwork, and adaptability. \o/
 </details>
 
-
+##
 
 <!-- Estatísticas e Habilidades -->
 <div align="center">
+  <a href="https://maiconbotelho.com.br">
   <img src="https://github-readme-stats.vercel.app/api?username=maiconsbotelho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maiconsbotelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div><br>
