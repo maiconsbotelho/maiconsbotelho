@@ -94,7 +94,7 @@
 <!-- Adicionando a animação da cobra ao seu perfil -->
 <br clear="both">
 
-![Snake animation](https://github.com/maiconsbotelho/maiconsbotelho/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/maiconsbotelho/maiconsbotelho/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
