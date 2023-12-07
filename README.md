@@ -29,7 +29,7 @@
   Hi 👋, I'm Maicon Botelho! A passionate Systems Analysis and Development Student from Brazil.
 
   - 📚 Currently studying Systems Analysis and Development at Uninter.
-  - 💻 Focused on entering the Web and Mobile Development area. Exploring JavaScript, HTML5, CSS3, Java, Firebase, and Python for application development.
+  - 💻 Focused on entering the Web Development area. Exploring JavaScript, HTML5 and CSS3 for application development.
   - 🚀 Currently diving deep into JavaScript, HTML5, and CSS3 to enhance my skills and create engaging web experiences.
 </p>
 
@@ -39,7 +39,7 @@
 <details>
   <summary><h2>👨‍💻 More about me</h2></summary><br>
 
-  - 💬 My knowledge is based on my academic journey, Udemy courses, and online video classes on YouTube. Currently learning and applying essential technologies including JavaScript, HTML5, CSS3, Java, Firebase, and Python.
+  - 💬 My knowledge is based on my academic journey, Udemy courses, and online video classes on YouTube. Currently learning and applying essential technologies including JavaScript, HTML5, CSS3 and Python.
   - ⚡ With a solid background in functional physical training, I developed valuable skills such as communication, leadership, teamwork, and adaptability. \o/
 </details>
 
@@ -62,11 +62,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
     <img width="12" />
   </div>
 
@@ -75,19 +71,12 @@
     <h2>Tools & Frameworks</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   </div>
 </div>
 
