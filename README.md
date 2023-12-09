@@ -11,7 +11,6 @@
   <a href="https://www.maiconbotelho.com.br"><img src="https://img.shields.io/badge/site-20BEFF?style=for-the-badge&logo=world&logoColor=white" alt="Site"></a>
 </div><br>
 
-
 <!--Numero de visitantes-->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maiconsbotelho.maiconsbotelho&"  />
@@ -40,6 +39,7 @@
   <summary><h2>👨‍💻 More about me</h2></summary><br>
 
   - 💬 My knowledge is based on my academic journey, Udemy courses, and online video classes on YouTube. Currently learning and applying essential technologies including JavaScript, HTML5, CSS3 and Python.
+    
   - ⚡ With a solid background in functional physical training, I developed valuable skills such as communication, leadership, teamwork, and adaptability. \o/
 </details>
 
@@ -80,10 +80,10 @@
   </div>
 </div>
 
-<!-- Adicionando a animação da cobra ao seu perfil -->
-<br clear="both">
+<!-- Principais Repositórios -->
+  <h2>Principais Repositórios</h2>
 
-<!-- ![Snake animation](https://github.com/maiconsbotelho/maiconsbotelho/blob/output/github-contribution-grid-snake.svg) -->
-
-
+- [App Mata Mosquito](https://github.com/maiconsbotelho/AppMataMosquito)
+- [App Calculadora IMC](https://github.com/maiconsbotelho/appCalculadoraIMC)
+- [App Calculadora JavaScript](https://github.com/maiconsbotelho/AppCalculadora_javaScript)
 
