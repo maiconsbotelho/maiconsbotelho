@@ -80,8 +80,9 @@
 <!-- Principais Repositórios -->
   <h2>Principais Repositórios</h2>
 
+- [Tela de Logim e Cadastro](https://maiconsbotelho.github.io/TelaLoginCadastro/index.html)
+- [Página Web - Exposição de Arte](https://maiconsbotelho.github.io/P1_exposicaoDeArtesUrbanas/)
 - [App Mata Mosquito](https://github.com/maiconsbotelho/AppMataMosquito)
-- [App Calculadora IMC](https://github.com/maiconsbotelho/appCalculadoraIMC)
 - [App Calculadora JavaScript](https://github.com/maiconsbotelho/AppCalculadora_javaScript)
 - [App Cronômetro](https://github.com/maiconsbotelho/appCronometro)
 
