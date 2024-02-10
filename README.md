@@ -80,8 +80,8 @@
 <!-- Principais Repositórios -->
   <h2>Principais Repositórios</h2>
 
-- [Tela de Logim e Cadastro](https://github.com/maiconsbotelho/TelaLoginCadastro)
-- [Página Web - Exposição de Arte](https://github.com/maiconsbotelho/P1_exposicaoDeArtesUrbanas)
+- [Página Web - Séllet Esmalteria](https://github.com/maiconsbotelho/SelletEsmalteria)
+- [Tela de Login e Cadastro](https://github.com/maiconsbotelho/TelaLoginCadastro)
 - [App Mata Mosquito](https://github.com/maiconsbotelho/AppMataMosquito)
 - [App Calculadora JavaScript](https://github.com/maiconsbotelho/AppCalculadora_javaScript)
 - [App Cronômetro](https://github.com/maiconsbotelho/appCronometro)
