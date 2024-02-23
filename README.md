@@ -82,7 +82,7 @@
 
 - [Página Web - Séllet Esmalteria](https://github.com/maiconsbotelho/SelletEsmalteria)
 - [LinkBio - Neymar Jr](https://github.com/maiconsbotelho/linkbio_Neymar)
-- [Tela de Login e Cadastro](https://github.com/maiconsbotelho/TelaLoginCadastro)
+- [Página Web - Pet Boutique](https://github.com/maiconsbotelho/Pet_boutique)
 - [App Mata Mosquito](https://github.com/maiconsbotelho/AppMataMosquito)
 - [App Calculadora JavaScript](https://github.com/maiconsbotelho/AppCalculadora_javaScript)
 - [App Cronômetro](https://github.com/maiconsbotelho/appCronometro)
