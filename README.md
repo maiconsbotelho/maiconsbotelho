@@ -2,9 +2,9 @@
 <!-- Links com Ícones -->
 <!-- Links centralizados com Ícones -->
 <div align="center">
-  <a href="https://www.youtube.com/c/MaiconBotelho"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/maicon_sbotelho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/maiconbotelho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://maiconbotelho.com.br/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
+   
 </div><br>
 
 <!--Numero de visitantes-->
@@ -21,25 +21,25 @@
 
 <!-- Apresentação -->
 <p>
-  Hi 👋, I'm Maicon Botelho! A passionate Systems Analysis and Development Student from Brazil.
-
-  - 📚 Currently studying Systems Analysis and Development at Uninter.
-  - 💻 Focused on entering the Web Development area. Exploring JavaScript, HTML5 and CSS3 for application development.
-  - 🚀 Currently diving deep into JavaScript, HTML5, and CSS3 to enhance my skills and create engaging web experiences.
+  Hello 👋, I'm Maicon Botelho!<br/>
+  I'm currently pursuing a Bachelor's degree in Software Engineering at UNINTER in Brazil.<br/><br/>
+  - 📚 Passionate about learning and growing in Software Engineering.<br/>
+  - 💻 Specializing in the JavaScript ecosystem, with a strong focus on modern technologies.<br/>
+  - 🚀 Currently diving deep into Next.js, React, Node.js, and TypeScript.
 </p>
 
 ##
 
 <!-- Dropdown -->
 <details>
-  <summary><h2>👨‍💻 More about me</h2></summary><br>
+  <summary>
+    <h2>👨‍💻 More About Me</h2>
+  </summary>
+  <p>
+    💬 My interest in programming began in 2023 when I attempted to develop a scheduling application in Java. Although I didn't complete the project, the challenges and obstacles I encountered were what made me fall in love with the field. \o/
+  </p>
+</details><br/>
 
-  - 💬 My knowledge is based on my academic journey, Udemy courses, and online video classes on YouTube. Currently learning and applying essential technologies including JavaScript, HTML5, CSS3 and Python.
-    
-  - ⚡ With a solid background in functional physical training, I developed valuable skills such as communication, leadership, teamwork, and adaptability. \o/
-</details>
-
-##
 
 <!-- Estatísticas e Habilidades -->
 <div align="center">
@@ -51,37 +51,37 @@
 <!-- Habilidades: Linguagens de Programação -->
 <div style="display: flex; justify-content: space-between;">
   <div style="flex-basis: 48%;">
-    <h2>I code wiht</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <h2>I Code With</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
   </div>
-
-  <!-- Habilidades: Ferramentas e Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h2>Tools & Frameworks</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-    <img width="12" />
-  </div>
-</div>
+</div><br/><br/>
 
 <!-- Principais Repositórios -->
   <h2>Principais Repositórios</h2>
 
 - [Página Web - Séllet Esmalteria](https://github.com/maiconsbotelho/SelletEsmalteria)
-- [App Tarefas+](https://github.com/maiconsbotelho/tarefas)
-- [LinkBio - Neymar Jr](https://github.com/maiconsbotelho/linkbio_Neymar)
+- [Página Web - Barba Brutal](https://github.com/maiconsbotelho/barba-brutal)
+- [LinkBio - Spider](https://github.com/maiconsbotelho/linkpage)
 - [Página Web - Pet Boutique](https://github.com/maiconsbotelho/Pet_boutique)
 - [App Mata Mosquito](https://github.com/maiconsbotelho/AppMataMosquito)
 - [App Cronômetro](https://github.com/maiconsbotelho/appCronometro)
