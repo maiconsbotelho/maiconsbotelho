@@ -75,14 +75,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
   </div>
 </div><br/><br/>
-
-<!-- Principais Repositórios -->
-  <h2>Principais Repositórios</h2>
-
-- [Página Web - Séllet Esmalteria](https://github.com/maiconsbotelho/SelletEsmalteria)
-- [Página Web - Barba Brutal](https://github.com/maiconsbotelho/barba-brutal)
-- [LinkBio - Spider](https://github.com/maiconsbotelho/linkpage)
-- [Página Web - Pet Boutique](https://github.com/maiconsbotelho/Pet_boutique)
-- [App Mata Mosquito](https://github.com/maiconsbotelho/AppMataMosquito)
-- [App Cronômetro](https://github.com/maiconsbotelho/appCronometro)
-
