@@ -1,21 +1,20 @@
+<!--Numero de visitantes-->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maiconsbotelho.maiconsbotelho&"  />
+</div><br/>
 
-<!-- Links com Ícones -->
 <!-- Links centralizados com Ícones -->
 <div align="center">
   <a href="https://www.linkedin.com/in/maiconbotelho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://maiconbotelho.com.br/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
-   
 </div><br>
-
-<!--Numero de visitantes-->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maiconsbotelho.maiconsbotelho&"  />
-</div>
 
 <!-- Saudação -->
 <div id="user-content-toc">
     <ul align="center">
-      <summary><h1 style="display: inline-block">👋 Hello World</h1></summary>
+      <summary>
+        <h1 style="display: inline-block">👋 Hello World</h1>
+      </summary>
     </ul>
 </div>
 
@@ -27,6 +26,7 @@
   - 💻 Specializing in the JavaScript ecosystem, with a strong focus on modern technologies.<br/>
   - 🚀 Currently diving deep into Next.js, React, Node.js, and TypeScript.
 </p>
+
 <!-- Dropdown -->
 <details>
   <summary>
@@ -44,7 +44,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiconsbotelho&theme=dracula&hide=prs,issues,contribs" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconsbotelho&layout=compact&theme=dracula" height="180" alt="languages graph"  />
 </div><br>
-
 
 <!-- Habilidades: Linguagens de Programação -->
 <div style="display: flex; justify-content: space-between;">
@@ -72,4 +71,4 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
   </div>
-</div><br/><br/>
+</div>
