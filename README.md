@@ -40,11 +40,9 @@
 <!-- Estatísticas e Habilidades -->
 ## Status
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiconsbotelho&theme=dracula&hide=prs,issues,contribs" height="180"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiconsbotelho&theme=dracula" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiconsbotelho&theme=dracula&hide=prs,issues,contribs" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconsbotelho&layout=compact&theme=dracula" height="180" alt="languages graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maiconsbotelho&theme=dracula" height="180" alt="languages graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maiconsbotelho&theme=dracula&utcOffset=8" height="180" alt="languages graph"  />
 </div><br>
 
 
