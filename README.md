@@ -27,9 +27,6 @@
   - 💻 Specializing in the JavaScript ecosystem, with a strong focus on modern technologies.<br/>
   - 🚀 Currently diving deep into Next.js, React, Node.js, and TypeScript.
 </p>
-
-##
-
 <!-- Dropdown -->
 <details>
   <summary>
@@ -38,14 +35,13 @@
   <p>
     💬 My interest in programming began in 2023 when I attempted to develop a scheduling application in Java. Although I didn't complete the project, the challenges and obstacles I encountered were what made me fall in love with the field. \o/
   </p>
-</details><br/>
-
+</details>
 
 <!-- Estatísticas e Habilidades -->
+## Status
 <div align="center">
-  <a href="https://maiconbotelho.com.br">
-  <img src="https://github-readme-stats.vercel.app/api?username=maiconsbotelho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maiconsbotelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maiconsbotelho&hide=prs,issues,contribs&show_icons=true&count_private=true&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconsbotelho&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div><br>
 
 <!-- Habilidades: Linguagens de Programação -->
