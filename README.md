@@ -47,7 +47,7 @@
  
  <br/>
 
- ## :books: Tech Stack Studied
+ ## :books: Technologies Studied
  <div align="center">
    
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
