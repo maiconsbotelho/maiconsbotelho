@@ -1,7 +1,5 @@
-<!--Numero de visitantes-->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maiconsbotelho.maiconsbotelho&"  />
-</div><br/>
+<!-- Saudação -->
+![Boas vindas](./github-header-image.png)
 
 <!-- Links centralizados com Ícones -->
 <div align="center">
@@ -9,14 +7,7 @@
   <a href="https://maiconbotelho.com.br/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
 </div><br>
 
-<!-- Saudação -->
-<div id="user-content-toc">
-    <ul align="center">
-      <summary>
-        <h1 style="display: inline-block">👋 Hello World</h1>
-      </summary>
-    </ul>
-</div>
+
 
 <!-- Apresentação -->
 <p>
