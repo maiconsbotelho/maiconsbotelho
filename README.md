@@ -10,13 +10,18 @@
 
 
 <!-- Apresentação -->
-<p>
-  Hello 👋, I'm Maicon Botelho!<br/>
-  I'm currently pursuing a Bachelor's degree in Software Engineering at UNINTER in Brazil.<br/><br/>
-  - 📚 Passionate about learning and growing in Software Engineering.<br/>
-  - 💻 Specializing in the JavaScript ecosystem, with a strong focus on modern technologies.<br/>
-  - 🚀 Currently diving deep into Next.js, React, Node.js, and TypeScript.
-</p>
+
+Hello 👋, I'm Maicon Botelho!
+  
+I'm currently pursuing a Bachelor's degree in Software Engineering at UNINTER in Brazil.<br/>
+
+#### Current stack
+- 🎖️ Main language: `Javascript`
+- 📊 Backend: `Node.js` , `Express` , `Nest.js`, `Prisma`
+- 💻 Frontend: `Next.js` , `React.js` , `TypeScript` , `Tailwind CSS` , `HTML5` , `CSS3`
+- 📚 Database: `PostgreeSQL` , `MondoDB` , `Firebase`
+- ✨ Layout Design: `Figma` , `Canva`
+- 🕹️ Tools: `VsCode`
 
 <!-- Dropdown -->
 <details>
