@@ -19,7 +19,7 @@ I'm currently pursuing a Bachelor's degree in Software Engineering at UNINTER in
 - 🎖️ Main language: `Javascript`
 - 📊 Backend: `Node.js` , `Express` , `Nest.js`, `Prisma`
 - 💻 Frontend: `Next.js` , `React.js` , `TypeScript` , `Tailwind CSS` , `HTML5` , `CSS3`
-- 📚 Database: `PostgreeSQL` , `MondoDB` , `Firebase`
+- 📚 Database: `PostgreeSQL` , `MongoDB` , `Firebase`
 - ✨ Layout Design: `Figma` , `Canva`
 - 🕹️ Tools: `VsCode`
 
