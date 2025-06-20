@@ -37,9 +37,9 @@ I work daily with Next.js, React, TypeScript, Tailwind CSS, Django (Python), and
 
 🚀 Key Projects:
 
-Sellet Esmalteria Appointment System: Full development of a production-ready scheduling platform using Next.js (frontend) and Django Rest Framework (backend).
+Sellet Esmalteria Appointment System: Full development of a production-ready scheduling platform using Next.js (frontend) and Django Rest Framework (backend), delivering an end-to-end solution for online bookings.
 
-Internal company projects integrating dashboards, UI components, and business logic optimizations.
+Internal projects at CrisduLabs (Grupo Crisdu): Development of dashboards, UI components, data display logic and continuous frontend improvements, applying React, Next.js and TypeScript to optimize user experience and business workflows.
 
 Always learning, always building.
 
