@@ -29,7 +29,21 @@ I'm currently pursuing a Bachelor's degree in Software Engineering at UNINTER in
     <h2>👨‍💻 More About Me</h2>
   </summary>
   <p>
-    💬 My interest in programming began in 2023 when I attempted to develop a scheduling application in Java. Although I didn't complete the project, the challenges and obstacles I encountered were what made me fall in love with the field. \o/
+    💬 Hi! I'm Maicon Botelho — a Frontend Developer passionate about building real, scalable and efficient web solutions.
+
+My journey into programming started in 2023 with a scheduling app prototype in Java. Since then, I've grown into building production-ready applications using modern web technologies.
+
+I work daily with Next.js, React, TypeScript, Tailwind CSS, Django (Python), and PostgreSQL, developing complete systems from frontend interfaces to backend APIs.
+
+🚀 Key Projects:
+
+Sellet Esmalteria Appointment System: Full development of a production-ready scheduling platform using Next.js (frontend) and Django Rest Framework (backend).
+
+Internal company projects integrating dashboards, UI components, and business logic optimizations.
+
+Always learning, always building.
+
+📍 Currently studying Software Engineering at UNINTER.
   </p>
 </details>
 
